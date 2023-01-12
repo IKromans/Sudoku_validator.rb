@@ -39,7 +39,6 @@ class Validator
       end
     
       private
-    
       def create_game_numbers_array(sudoku_game_string)
         sudoku_game_string.gsub(/\D/, '').chars.map(&:to_i).each_slice(9).to_a
       end
