@@ -1,8 +1,9 @@
-# Sudoku validator
+# Sudoku_validator.rb
 
-## Description
+Hey!
 
-Write code to check if a given string is a correct [sudoku](https://en.wikipedia.org/wiki/Sudoku) puzzle and return a message indicating whether the puzzle is valid, invalid or valid and incomplete.
+This is my variant of sudoku validator.
+Code is in Ruby programming language.
 
 ## Setup
 
@@ -35,7 +36,7 @@ A puzzle is valid if:
 
 ## Implementation
 
-Additions should be written to `lib/validator.rb` within the method `validate`, the creation of additional methods and classes is encouraged.
+My code is written to `lib/validator.rb` within the method `validate`.
 
 ## Ensuring that the solution is valid
 
